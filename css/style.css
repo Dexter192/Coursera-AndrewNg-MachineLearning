@@ -1,0 +1,10 @@
+
+
+/*Print python figures in the middle*/
+.output_png {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}  
+
+
